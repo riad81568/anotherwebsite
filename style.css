@@ -1,0 +1,20 @@
+ table{
+background-color: #856544 ;
+border-color: green ;
+}
+.you{
+ width: 800px;
+ padding:30px;
+ margin:30px;
+ background-color:#955759;
+ border-radius: 20px;
+}
+ a{
+  text-decoration: none;
+ }
+.btn{
+ color:white;
+ background-color:#947747;
+ padding: 13px 20px 13px 20px;
+ border-radius:20px;
+}
